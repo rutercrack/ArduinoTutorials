@@ -4,7 +4,7 @@ Intended to document my progress of learning about Arduino projects, micro-contr
 # Hierarchy of files
 
 ## Arduino
-### All the projects in 'Projects/' are based on the two works of the books referenced in root.
+### All the projects in 'Projects/' are based on the works of the books referenced in root.
 ### There is also a personal notebook (latex files may be included) where I write everything I learn (Since this is not an official book of any kind, don't believe anything you read there, it might be wrong).
 
 ## RaspberryPi
